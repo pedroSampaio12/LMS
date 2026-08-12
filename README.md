@@ -1,2 +1,2 @@
 # LMS
-LMS voltado a projetos sociais de educação, criado para auxiliar cursinhos populares e iniciativas voluntárias na preparação de estudantes da rede pública para vestibulares.
+Este projeto consiste no desenvolvimento de um Sistema de Gestão de Aprendizagem (LMS) voltado para projetos voluntários de educação, com foco na preparação de alunos da rede pública para vestibulares. A plataforma tem como objetivo facilitar a organização de conteúdos didáticos, o acompanhamento do desempenho dos estudantes e a gestão de turmas e voluntários, contribuindo para ampliar o acesso ao ensino superior por meio de iniciativas de cursinhos populares e ações sociais educacionais.
