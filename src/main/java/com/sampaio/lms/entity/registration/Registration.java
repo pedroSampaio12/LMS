@@ -37,4 +37,4 @@ public class Registration {
     private StatusUser status;
 
 }
-}
+
