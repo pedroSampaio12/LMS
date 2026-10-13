@@ -2,11 +2,11 @@ package com.sampaio.lms.entity.enums;
 
 public enum StatusUser {
 
-    ATIVO,
+    ACTIVE,
 
-    TRANCADO,
+    SUSPENDED,
 
-    EXPULSO,
+    OUTCAST,
 
-    LICENCA;
+    LEAVE;
 }
